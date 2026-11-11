@@ -5,9 +5,9 @@ challenge.
 
 ## Goals
 
-🦀 Implement everything in Rust
-
-🏃‍♂️‍➡️ Try to optimize performance (to the best of my knowledge)
+- Implement everything in Rust
+- Try to optimize performance (to the best of my knowledge)
+- No AI! All code in this repo is handwritten.
 
 ## License
 
