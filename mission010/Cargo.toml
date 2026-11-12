@@ -1,0 +1,4 @@
+[package]
+name = "mission010"
+version = "0.1.0"
+edition = "2024"
